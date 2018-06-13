@@ -17,6 +17,10 @@
   "home": {
     "type": "object",
     "comment": "",
-    "properties": {}
+    "properties": {
+      "back": {
+        "type": "action"
+      }
+    }
   }
 }
