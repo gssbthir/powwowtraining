@@ -13,5 +13,10 @@
         "type": "action"
       }
     }
+  },
+  "home": {
+    "type": "object",
+    "comment": "",
+    "properties": {}
   }
 }
