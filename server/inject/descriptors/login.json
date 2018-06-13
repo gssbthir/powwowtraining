@@ -8,7 +8,9 @@
       "control": "text"
     },
     "password": {
-      "type": "string"
+      "type": "string",
+      "selector": "[name=\"password\"]",
+      "control": "text"
     },
     "login": {
       "type": "action"
