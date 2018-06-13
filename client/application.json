@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "4542e49f",
   "uiCommonVersion": "5.0.58",
-  "creatorId": "gssbthir"
+  "creatorId": "gssbthir",
+  "id": "powwowtraining",
+  "previewImageURL": "/previews/4542e49f-powwowtraining/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/gssbthir/powwowtraining",
+  "creatorName": "Balakumar",
+  "sdks": []
 }

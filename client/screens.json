@@ -1,7 +1,7 @@
 {
   "id": "app",
   "name": "powwowtraining",
-  "startScreen": "app.blank",
+  "startScreen": "app.login",
   "screens": [
     {
       "id": "blank",
