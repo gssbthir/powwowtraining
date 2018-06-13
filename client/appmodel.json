@@ -2,6 +2,16 @@
   "login": {
     "type": "object",
     "comment": "",
-    "properties": {}
+    "properties": {
+      "username": {
+        "type": "string"
+      },
+      "password": {
+        "type": "string"
+      },
+      "login": {
+        "type": "action"
+      }
+    }
   }
 }
