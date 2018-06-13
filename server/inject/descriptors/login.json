@@ -3,7 +3,9 @@
   "comment": "",
   "properties": {
     "username": {
-      "type": "string"
+      "type": "string",
+      "selector": "[name=\"username\"]",
+      "control": "text"
     },
     "password": {
       "type": "string"
