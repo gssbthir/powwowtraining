@@ -13,7 +13,9 @@
       "control": "text"
     },
     "login": {
-      "type": "action"
+      "type": "action",
+      "selector": ".button",
+      "control": "action.button"
     }
   },
   "connect": []
